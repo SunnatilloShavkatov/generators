@@ -35,9 +35,9 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 DEALINGS IN THE SOFTWARE. */
 
+import 'package:annotations/annotations.dart';
 import 'package:build/src/builder/build_step.dart';
 import 'package:analyzer/dart/element/element.dart';
-import 'package:generators/annotations/annotations.dart';
 import 'package:source_gen/source_gen.dart';
 
 

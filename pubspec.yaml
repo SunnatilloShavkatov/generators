@@ -9,6 +9,9 @@ environment:
 dependencies:
   build:
   source_gen:
+  annotations:
+    git:
+      url: https://github.com/SunnatilloShavkatov/annotations.git
 
 dev_dependencies:
   build_test:
