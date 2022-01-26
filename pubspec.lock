@@ -19,8 +19,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: HEAD
-      resolved-ref: fee7f7f6fadadea65fbcf4b43f4b78ab1ed62de9
+      ref: master
+      resolved-ref: a39b0ebf75a8977b5f4238e49002d899385b6b4b
       url: "https://github.com/SunnatilloShavkatov/annotations.git"
     source: git
     version: "1.0.0"
