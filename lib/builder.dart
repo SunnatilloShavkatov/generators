@@ -46,3 +46,4 @@ Builder generateExtension(BuilderOptions options) =>
 
 Builder generateSubclass(BuilderOptions options) =>
     SharedPartBuilder([SubclassGenerator()], 'subclass_generator');
+
